@@ -17,6 +17,4 @@ docker run -d --net=host -v <media dir on host>:/media \
     bobrik/minidlna
 ```
 
-See: http://manpages.ubuntu.com/manpages/raring/man5/minidlna.conf.5.html
-
-Let me know if you figure out how to run it without `--het=host`.
+forked from "https://github.com/johnelse/docker-minidlna"
